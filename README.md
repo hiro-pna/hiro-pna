@@ -8,7 +8,7 @@
 
 ### About
 
-Software engineer at **FPT Information System**, focused on backend systems and AI infrastructure.  
+Software engineer at **FPT IS**, focused on backend systems and AI infrastructure.  
 Currently building AI agent platforms and data pipelines in Vietnam 🇻🇳
 
 ---
